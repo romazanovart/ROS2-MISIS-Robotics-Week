@@ -1,10 +1,10 @@
-# Решение Хакатон - соренований по сборке и программированию ROS2/open-source роботов от команды just_misis | ROS Meetup '26
+# Решение Хакатон - соренований по сборке и программированию ROS2/open-source роботов от команды just_misis | MISIS-Robotics-Week
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/035d7a99-ded4-42b8-a010-f8725f115cb8" alt="rounded-in-photoretrica">
 </div>
 
-В данном репозитории представлены все файлы решения команды just_misis для Хакатон - соренований по сборке и программированию ROS2/open-source роботов в рамках мероприятия [ROS Meetup '26](https://rosmeetup.ru/)!
+В данном репозитории представлены все файлы решения команды just_misis, которая заняла 1 место, для Хакатон - соренований по сборке и программированию ROS2/open-source роботов в рамках мероприятия MISIS-Robotics-Week
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/a76a4846-d511-4edf-940b-b1d0bb9ee5bc" alt="rounded-in-photoretrica">
